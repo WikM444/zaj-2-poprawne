@@ -3,6 +3,7 @@
 Aplikacja do rozliczania najmowanych mieszkań.
 
 ## Getting started
+## fragment kodu dopisany online na GitHub
 
 - Używając *Python3.12* utwórz *venv* i zainstaluj zależności
 
