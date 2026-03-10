@@ -1,0 +1,14 @@
+{
+    "bill1":{
+        "price" : 1000,
+        "paymentdate" : "10.06.26",
+        "billtype": "zaplata",
+        "billapartment": "mieszkanie Polanka 44"
+    },
+    "bill2":{
+        "price" : 5000,
+        "paymentdate" : "11.06.26",
+        "billtype": "zaplata",
+        "billapartment": "mieszkanie Polanka 99"
+    }
+}

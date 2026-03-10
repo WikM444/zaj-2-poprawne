@@ -61,6 +61,12 @@ class Manager:
         self.apartments = Apartment.from_json_file(self.parameters.apartments_json_path)
         self.tenants = Tenant.from_json_file(self.parameters.tenants_json_path)
 
+class Bill:
+    price: float
+    paymentdate: str
+    billtype: str
+    billapartment: str
+
 if __name__ == '__main__':
     parameters = Parameters()
     manager = Manager(parameters)
